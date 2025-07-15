@@ -41,7 +41,15 @@ This AI project predicts whether a student will pass or fail based on various ac
 
 ## Image of Project
 <img width="3046" height="1513" alt="screen_shot_1" src="https://github.com/user-attachments/assets/1ec45d21-2ae4-4574-a324-3e2cf693152a" />
-![image alt](https://github.com/altamash8986/Student_Pass_Fail_Prediction/raw/808c3162868bfd654fbdd6cb1f44c20ccf245e80/screen_shot_2.png)
+
+## Image of Project
+
+<!-- ✅ First image (already working) -->
+<img width="3046" height="1513" alt="screen_shot_1" src="https://github.com/user-attachments/assets/1ec45d21-2ae4-4574-a324-3e2cf693152a" />
+
+<!-- ✅ Second image (fixed with raw URL) -->
+![screen_shot_2](https://github.com/altamash8986/Student_Pass_Fail_Prediction/raw/808c3162868bfd654fbdd6cb1f44c20ccf245e80/screen_shot_2.png)
+
 ##  Made by
 
 *Mohd Altamash*  
