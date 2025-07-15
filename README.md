@@ -37,7 +37,8 @@ This AI project predicts whether a student will pass or fail based on various ac
 | 10            | 85         | 78             | 1                      | 1              | 1    |
 | 4             | 60         | 50             | 0                      | 0              | 0    |
 
-##Image of Project 
+
+## Image of Project
 <img width="3046" height="1513" alt="screen_shot_1" src="https://github.com/user-attachments/assets/1ec45d21-2ae4-4574-a324-3e2cf693152a" />
 
 
